@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "ViewController.createArray(json:):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "json[&quot;name&quot;].stringValue">
+            </PersistentString>
+            <PersistentString
+               value = "weatherForCities">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in ViewController.getWeatherData(url:parameters:):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "JSON(response.result.value)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
